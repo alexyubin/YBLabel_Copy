@@ -4,7 +4,7 @@
 
 
 ## demo
-![image](https://raw.githubusercontent.com/alexyubin/YBLabel_Copy/master/demo.gif)
+![image](https://raw.githubusercontent.com/alexyubin/YBLabel_Copy/master/Demo.gif)
 
 
 ## Installation
