@@ -10,6 +10,7 @@
 #import <objc/runtime.h>
 
 @implementation UILabel (Copy)
+@dynamic copyingEnabled;
 
 - (BOOL)canPerformAction:(SEL)action withSender:(id)sender {
     return (action == @selector(copyText:));
