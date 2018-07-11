@@ -18,10 +18,10 @@
 
 
 > **CocoaPods**
-
+> "#import <YBLabel+Copy/UILabel+Copy.h>"
+ 
 <pre><code>
  pod 'YBLabel+Copy', '~> 1.0.1'
- "#import <YBLabel+Copy/UILabel+Copy.h>"
 </code></pre>
 如果未发现 1.0.1 请更新一下pod,  使用命令
 
