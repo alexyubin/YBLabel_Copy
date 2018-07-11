@@ -67,7 +67,7 @@
 		FA7C055D20F5E75B003E9675 = {
 			isa = PBXGroup;
 			children = (
-				FA7C058A20F6088E003E9675 /* YBLabel_Copy */,
+				FA7C058A20F6088E003E9675 /* YBLabel+Copy */,
 				FA7C056820F5E75B003E9675 /* YBLabelDemo */,
 				FA7C056720F5E75B003E9675 /* Products */,
 				2774D0741C22298305942DCB /* Pods */,
@@ -99,14 +99,14 @@
 			path = YBLabelDemo;
 			sourceTree = "<group>";
 		};
-		FA7C058A20F6088E003E9675 /* YBLabel_Copy */ = {
+		FA7C058A20F6088E003E9675 /* YBLabel+Copy */ = {
 			isa = PBXGroup;
 			children = (
 				FA7C058B20F6088E003E9675 /* UILabel+Copy.h */,
 				FA7C058C20F6088E003E9675 /* UILabel+Copy.m */,
 			);
-			name = YBLabel_Copy;
-			path = ../YBLabel_Copy;
+			name = "YBLabel+Copy";
+			path = "../YBLabel+Copy";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
