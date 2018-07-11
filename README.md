@@ -11,10 +11,13 @@
 > **CocoaPods**
 > pod 'YBLabel+Copy', '~> 1.0.0'
 如果未发现 1.0.0 请更新一下pod,  使用命令
+
 <pre><code>
 pod repo update
 </code></pre>
+
 但是有时候，更新了却还是不行，那我们就 
+
 <pre><code>
 pod cache clean --all
 rm -rf ~/Library/Caches/CocoaPods
@@ -27,6 +30,7 @@ pod repo update
 
 
 ## How to use
+
 <pre><code>
 UILabel *label= [[UILabel alloc] init];
 //使UILabel拥有长按复制功能
