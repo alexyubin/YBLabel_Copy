@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.1"
   s.summary      = "Add copy functionality to UILabel"
   s.homepage     = "https://github.com/alexyubin/YBLabel_Copy"
-  s.license      = "MIT"
+  s.license      = { :type => "MIT", :file => "LICENSE.md" }
   s.author             = { "alexyubin" => "552092914@qq.com" }
   s.social_media_url   = ""
   s.platform     = :ios
