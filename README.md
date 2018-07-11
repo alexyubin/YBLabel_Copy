@@ -8,9 +8,20 @@
 
 
 ## Installation
+> **手动拖入**
+> 将 YBLabel_Copy 文件夹拽入项目中，导入头文件：
+
+<pre><code>
+ "#import "UILabel+Copy.h"
+</code></pre>
+
+
+
 > **CocoaPods**
+
 <pre><code>
  pod 'YBLabel+Copy', '~> 1.0.1'
+ "#import <YBLabel+Copy/UILabel+Copy.h>"
 </code></pre>
 如果未发现 1.0.1 请更新一下pod,  使用命令
 
@@ -26,10 +37,6 @@
  pod repo update
 </code></pre>
 
-
-> **手动拖入**
-> 将 YBLabel_Copy 文件夹拽入项目中，导入头文件：
-> #import "#import "UILabel+Copy.h"
 
 
 ## How to use
